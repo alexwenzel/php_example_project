@@ -1,6 +1,6 @@
 {
-    "name": "alexwenzel/php_project",
-    "description": "example project",
+    "name": "alexwenzel/php_example_project",
+    "description": "example project with php and composer",
     "authors": [
         {
             "name": "alexwenzel",
