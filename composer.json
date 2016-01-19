@@ -1,0 +1,22 @@
+{
+    "name": "alexwenzel/php_project",
+    "description": "example project",
+    "authors": [
+        {
+            "name": "alexwenzel",
+            "email": "a.wenzel@example.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.8.21"
+    },
+    "autoload": {
+        "psr-4": {
+            "alexwenzel\\php_project\\": "src/",
+            "alexwenzel\\php_project\\tests\\": "tests/"
+        }
+    }
+}
